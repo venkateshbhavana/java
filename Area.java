@@ -10,7 +10,7 @@ public class Area {
 
         z=x*y/2;
         //for three sides of triangle
-
+        //printing z value
         System.out.println(z);
 
  
